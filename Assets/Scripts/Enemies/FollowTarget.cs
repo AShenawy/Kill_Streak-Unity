@@ -4,7 +4,7 @@ namespace Enemies
 {
     public class FollowTarget : MonoBehaviour
     {
-        [SerializeField] Transform _target;
+        [SerializeField] private Transform _target;
         public DifficultyManager DifficultyManager;
         public float RunSpeed = 7f;
         public bool IsActive = true;
