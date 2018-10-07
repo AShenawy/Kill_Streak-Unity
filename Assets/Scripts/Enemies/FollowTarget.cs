@@ -1,31 +1,32 @@
-using System;
 using UnityEngine;
 
-
-public class FollowTarget : MonoBehaviour
+namespace Enemies
 {
-    [SerializeField] Transform target;
-    public DifficultyManager difficultyManager;
-    public float runSpeed = 7f;
-    public bool isActive = true;
-
-
-    private void Start()
+    public class FollowTarget : MonoBehaviour
     {
-        if (difficultyManager == null)
-            difficultyManager = FindObjectOfType<DifficultyManager>();
+        [SerializeField] Transform _target;
+        public DifficultyManager DifficultyManager;
+        public float RunSpeed = 7f;
+        public bool IsActive = true;
 
-        runSpeed = difficultyManager.speed;
 
-        // Assign player as target if not assigned in Editor
-        if (target == null)
-            target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
-    }
+        private void Start()
+        {
+            if (DifficultyManager == null)
+                DifficultyManager = FindObjectOfType<DifficultyManager>();
 
-    void LateUpdate ()
-    {
-        // Chase after target
-        if (isActive)
-        transform.position = Vector3.MoveTowards(transform.position, target.position, runSpeed * Time.deltaTime);
+            RunSpeed = DifficultyManager.speed;
+
+            // Assign player as target if not assigned in Editor
+            if (_target == null)
+                _target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        }
+
+        void LateUpdate ()
+        {
+            // Chase after target
+            if (IsActive)
+                transform.position = Vector3.MoveTowards(transform.position, _target.position, RunSpeed * Time.deltaTime);
+        }
     }
 }

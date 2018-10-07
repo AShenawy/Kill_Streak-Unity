@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using Enemies;
 using UnityEngine.UI;
 
 public class KillStreak : MonoBehaviour

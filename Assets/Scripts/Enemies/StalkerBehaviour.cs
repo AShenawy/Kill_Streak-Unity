@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using Enemies;
 using UnityEngine;
 
 public class StalkerBehaviour : MonoBehaviour 
@@ -75,7 +76,7 @@ public class StalkerBehaviour : MonoBehaviour
 
     void Die(Transform projectile)
     {
-        GetComponent<FollowTarget>().isActive = false; // stop chasing player
+        GetComponent<FollowTarget>().IsActive = false; // stop chasing player
         GetComponent<Rigidbody2D>().simulated = false; // disable collisions and physics
         GameManager.gm.AddScore(scoreValue);
         transform.SetParent(projectile);
