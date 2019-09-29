@@ -1,30 +1,66 @@
 fileFormatVersion: 2
 guid: b713ddb98db9280439bfdb82e4a7c7ef
-timeCreated: 1536771138
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Wall_SideRight
-    21300002: Brick_trans
-    21300004: 0x72_16x16DungeonTileset_walls.v1_2
-    21300006: 0x72_16x16DungeonTileset_walls.v1_3
-    21300008: 0x72_16x16DungeonTileset_walls.v1_4
-    21300010: Wall_SideLeft
-    21300012: 0x72_16x16DungeonTileset_walls.v1_6
-    21300014: 0x72_16x16DungeonTileset_walls.v1_7
-    21300016: Wall_CornerBot_R
-    21300018: Wall_CornerBot_L
-    21300020: 0x72_16x16DungeonTileset_walls.v1_10
-    21300022: Wall_CornerTop_R
-    21300024: Wall_CornerTop_L
-    21300026: Floor_WallEdge_CornerRight
-    21300028: Floor_WallEdge_Top
-    21300030: Floor_WallEdge_CornerLeft
-    21300032: Floor_WallEdge_Right
-    21300034: Floor_WallEdge_Left
-    21300036: 0x72_16x16DungeonTileset_walls.v1_0
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Wall_SideRight
+  - first:
+      213: 21300002
+    second: Brick_trans
+  - first:
+      213: 21300004
+    second: 0x72_16x16DungeonTileset_walls.v1_2
+  - first:
+      213: 21300006
+    second: 0x72_16x16DungeonTileset_walls.v1_3
+  - first:
+      213: 21300008
+    second: 0x72_16x16DungeonTileset_walls.v1_4
+  - first:
+      213: 21300010
+    second: Wall_SideLeft
+  - first:
+      213: 21300012
+    second: 0x72_16x16DungeonTileset_walls.v1_6
+  - first:
+      213: 21300014
+    second: 0x72_16x16DungeonTileset_walls.v1_7
+  - first:
+      213: 21300016
+    second: Wall_CornerBot_R
+  - first:
+      213: 21300018
+    second: Wall_CornerBot_L
+  - first:
+      213: 21300020
+    second: 0x72_16x16DungeonTileset_walls.v1_10
+  - first:
+      213: 21300022
+    second: Wall_CornerTop_R
+  - first:
+      213: 21300024
+    second: Wall_CornerTop_L
+  - first:
+      213: 21300026
+    second: Floor_WallEdge_CornerRight
+  - first:
+      213: 21300028
+    second: Floor_WallEdge_Top
+  - first:
+      213: 21300030
+    second: Floor_WallEdge_CornerLeft
+  - first:
+      213: 21300032
+    second: Floor_WallEdge_Right
+  - first:
+      213: 21300034
+    second: Floor_WallEdge_Left
+  - first:
+      213: 21300036
+    second: 0x72_16x16DungeonTileset_walls.v1_0
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -42,6 +78,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -52,7 +90,7 @@ TextureImporter:
     serializedVersion: 2
     filterMode: 0
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -64,18 +102,21 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
@@ -84,7 +125,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
@@ -93,7 +137,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Android
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
@@ -102,7 +149,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: WebGL
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
@@ -111,6 +161,8 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -132,6 +184,13 @@ TextureImporter:
         - {x: -8, y: -8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Wall_SideLeft
       rect:
@@ -150,6 +209,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Wall_CornerBot_R
       rect:
@@ -169,6 +235,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Wall_CornerBot_L
       rect:
@@ -188,6 +261,13 @@ TextureImporter:
         - {x: -1, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Wall_CornerTop_R
       rect:
@@ -206,6 +286,13 @@ TextureImporter:
         - {x: -8, y: -2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Wall_CornerTop_L
       rect:
@@ -224,6 +311,13 @@ TextureImporter:
         - {x: -8, y: -2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Floor_WallEdge_CornerRight
       rect:
@@ -252,6 +346,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Floor_WallEdge_Top
       rect:
@@ -276,6 +377,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Floor_WallEdge_CornerLeft
       rect:
@@ -304,6 +412,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Floor_WallEdge_Right
       rect:
@@ -328,6 +443,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Floor_WallEdge_Left
       rect:
@@ -352,6 +474,13 @@ TextureImporter:
         - {x: -4, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset_walls.v1_0
       rect:
@@ -370,6 +499,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Brick_trans
       rect:
@@ -388,9 +524,26 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

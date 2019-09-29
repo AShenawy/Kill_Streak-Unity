@@ -1,263 +1,765 @@
 fileFormatVersion: 2
 guid: b9358cc544d3243489357167765608cf
-timeCreated: 1536768303
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Wall_TopBrick01
-    21300002: Wall_TopBrick02
-    21300004: Wall_TopBrick03
-    21300006: 0x72_16x16DungeonTileset.v4_3
-    21300008: 0x72_16x16DungeonTileset.v4_4
-    21300010: Stairs_Top_L
-    21300012: Stairs_Top_R
-    21300014: 0x72_16x16DungeonTileset.v4_7
-    21300016: 0x72_16x16DungeonTileset.v4_8
-    21300018: Stairs_Top_C
-    21300020: Stairs_Mid_C
-    21300022: Stairs_Base_C
-    21300024: 0x72_16x16DungeonTileset.v4_12
-    21300026: 0x72_16x16DungeonTileset.v4_13
-    21300028: 0x72_16x16DungeonTileset.v4_14
-    21300030: 0x72_16x16DungeonTileset.v4_15
-    21300032: Wall_Brick01
-    21300034: Wall_Brick02
-    21300036: Wall_Brick03
-    21300038: Wall_Brick_Sludge
-    21300040: 0x72_16x16DungeonTileset.v4_20
-    21300042: Stairs_Mid_L
-    21300044: Stairs_Mid_R
-    21300046: 0x72_16x16DungeonTileset.v4_23
-    21300048: 0x72_16x16DungeonTileset.v4_24
-    21300050: 0x72_16x16DungeonTileset.v4_25
-    21300052: 0x72_16x16DungeonTileset.v4_26
-    21300054: 0x72_16x16DungeonTileset.v4_27
-    21300056: Weapon_Main
-    21300058: 0x72_16x16DungeonTileset.v4_29
-    21300060: 0x72_16x16DungeonTileset.v4_30
-    21300062: 0x72_16x16DungeonTileset.v4_31
-    21300064: 0x72_16x16DungeonTileset.v4_32
-    21300066: 0x72_16x16DungeonTileset.v4_33
-    21300068: 0x72_16x16DungeonTileset.v4_34
-    21300070: 0x72_16x16DungeonTileset.v4_35
-    21300072: 0x72_16x16DungeonTileset.v4_36
-    21300074: Stairs_Base_L
-    21300076: Stairs_Base_R
-    21300078: 0x72_16x16DungeonTileset.v4_39
-    21300080: 0x72_16x16DungeonTileset.v4_40
-    21300082: 0x72_16x16DungeonTileset.v4_41
-    21300084: 0x72_16x16DungeonTileset.v4_42
-    21300086: 0x72_16x16DungeonTileset.v4_43
-    21300088: 0x72_16x16DungeonTileset.v4_44
-    21300090: 0x72_16x16DungeonTileset.v4_45
-    21300092: 0x72_16x16DungeonTileset.v4_46
-    21300094: 0x72_16x16DungeonTileset.v4_47
-    21300096: 0x72_16x16DungeonTileset.v4_48
-    21300098: Skull
-    21300100: Grnd_GenDark
-    21300102: 0x72_16x16DungeonTileset.v4_51
-    21300104: 0x72_16x16DungeonTileset.v4_52
-    21300106: 0x72_16x16DungeonTileset.v4_53
-    21300108: ColWall_Cap
-    21300110: 0x72_16x16DungeonTileset.v4_55
-    21300112: 0x72_16x16DungeonTileset.v4_56
-    21300114: 0x72_16x16DungeonTileset.v4_57
-    21300116: 0x72_16x16DungeonTileset.v4_58
-    21300118: Sword_Steel_Katana
-    21300120: 0x72_16x16DungeonTileset.v4_60
-    21300122: 0x72_16x16DungeonTileset.v4_61
-    21300124: 0x72_16x16DungeonTileset.v4_62
-    21300126: Bomb
-    21300128: 0x72_16x16DungeonTileset.v4_64
-    21300130: 0x72_16x16DungeonTileset.v4_65
-    21300132: 0x72_16x16DungeonTileset.v4_66
-    21300134: 0x72_16x16DungeonTileset.v4_67
-    21300136: 0x72_16x16DungeonTileset.v4_68
-    21300138: 0x72_16x16DungeonTileset.v4_69
-    21300140: ColWall_Mid
-    21300142: 0x72_16x16DungeonTileset.v4_71
-    21300144: 0x72_16x16DungeonTileset.v4_72
-    21300146: 0x72_16x16DungeonTileset.v4_73
-    21300148: 0x72_16x16DungeonTileset.v4_74
-    21300150: 0x72_16x16DungeonTileset.v4_75
-    21300152: Banner_Red
-    21300154: Banner_Green
-    21300156: Banner_Blue
-    21300158: Banner_Yellow
-    21300160: 0x72_16x16DungeonTileset.v4_80
-    21300162: 0x72_16x16DungeonTileset.v4_81
-    21300164: 0x72_16x16DungeonTileset.v4_82
-    21300166: 0x72_16x16DungeonTileset.v4_83
-    21300168: 0x72_16x16DungeonTileset.v4_84
-    21300170: 0x72_16x16DungeonTileset.v4_85
-    21300172: ColWall_Base
-    21300174: 0x72_16x16DungeonTileset.v4_87
-    21300176: 0x72_16x16DungeonTileset.v4_88
-    21300178: 0x72_16x16DungeonTileset.v4_89
-    21300180: 0x72_16x16DungeonTileset.v4_90
-    21300182: 0x72_16x16DungeonTileset.v4_91
-    21300184: 0x72_16x16DungeonTileset.v4_92
-    21300186: 0x72_16x16DungeonTileset.v4_93
-    21300188: 0x72_16x16DungeonTileset.v4_94
-    21300190: 0x72_16x16DungeonTileset.v4_95
-    21300192: Grnd_Patch_NW
-    21300194: Grnd_Patch_N00
-    21300196: Grnd_Patch_N01
-    21300198: Grnd_Patch_NE
-    21300200: Blank
-    21300202: 0x72_16x16DungeonTileset.v4_101
-    21300204: Crate_StackTop
-    21300206: 0x72_16x16DungeonTileset.v4_103
-    21300208: 0x72_16x16DungeonTileset.v4_104
-    21300210: Knife_Gold
-    21300212: 0x72_16x16DungeonTileset.v4_106
-    21300214: 0x72_16x16DungeonTileset.v4_107
-    21300216: 0x72_16x16DungeonTileset.v4_108
-    21300218: 0x72_16x16DungeonTileset.v4_109
-    21300220: 0x72_16x16DungeonTileset.v4_110
-    21300222: 0x72_16x16DungeonTileset.v4_111
-    21300224: Grnd_Patch_W
-    21300226: Grnd_Patch_C00
-    21300228: Grnd_Patch_C01
-    21300230: Grnd_Patch_E
-    21300232: Grnd_GenLight
-    21300234: Crate_Single
-    21300236: Crate_Stack
-    21300238: 0x72_16x16DungeonTileset.v4_119
-    21300240: 0x72_16x16DungeonTileset.v4_120
-    21300242: 0x72_16x16DungeonTileset.v4_121
-    21300244: 0x72_16x16DungeonTileset.v4_122
-    21300246: 0x72_16x16DungeonTileset.v4_123
-    21300248: Dirt_Patch02
-    21300250: Dirt_Small02
-    21300252: 0x72_16x16DungeonTileset.v4_126
-    21300254: 0x72_16x16DungeonTileset.v4_127
-    21300256: Grnd_Patch_SW
-    21300258: Grnd_Patch_S00
-    21300260: Grnd_Patch_S01
-    21300262: Grnd_Patch_SE
-    21300264: Monster
-    21300266: 0x72_16x16DungeonTileset.v4_133
-    21300268: 0x72_16x16DungeonTileset.v4_134
-    21300270: 0x72_16x16DungeonTileset.v4_135
-    21300272: 0x72_16x16DungeonTileset.v4_136
-    21300274: 0x72_16x16DungeonTileset.v4_137
-    21300276: 0x72_16x16DungeonTileset.v4_138
-    21300278: 0x72_16x16DungeonTileset.v4_139
-    21300280: Dirt_Patch01
-    21300282: Dirt_Small01
-    21300284: Dirt_Large
-    21300286: 0x72_16x16DungeonTileset.v4_143
-    21300288: 0x72_16x16DungeonTileset.v4_144
-    21300290: 0x72_16x16DungeonTileset.v4_145
-    21300292: 0x72_16x16DungeonTileset.v4_146
-    21300294: 0x72_16x16DungeonTileset.v4_147
-    21300296: 0x72_16x16DungeonTileset.v4_148
-    21300298: 0x72_16x16DungeonTileset.v4_149
-    21300300: 0x72_16x16DungeonTileset.v4_150
-    21300302: 0x72_16x16DungeonTileset.v4_151
-    21300304: 0x72_16x16DungeonTileset.v4_152
-    21300306: 0x72_16x16DungeonTileset.v4_153
-    21300308: 0x72_16x16DungeonTileset.v4_154
-    21300310: 0x72_16x16DungeonTileset.v4_155
-    21300312: 0x72_16x16DungeonTileset.v4_156
-    21300314: 0x72_16x16DungeonTileset.v4_157
-    21300316: 0x72_16x16DungeonTileset.v4_158
-    21300318: 0x72_16x16DungeonTileset.v4_159
-    21300320: 0x72_16x16DungeonTileset.v4_160
-    21300322: 0x72_16x16DungeonTileset.v4_161
-    21300324: 0x72_16x16DungeonTileset.v4_162
-    21300326: 0x72_16x16DungeonTileset.v4_163
-    21300328: 0x72_16x16DungeonTileset.v4_164
-    21300330: 0x72_16x16DungeonTileset.v4_165
-    21300332: Flame_Out
-    21300334: Flame_00
-    21300336: Flame_01
-    21300338: Flame_02
-    21300340: Flame_03
-    21300342: Flame_04
-    21300344: Flame_05
-    21300346: Flame_06
-    21300348: Flame_07
-    21300350: 0x72_16x16DungeonTileset.v4_175
-    21300352: 0x72_16x16DungeonTileset.v4_176
-    21300354: 0x72_16x16DungeonTileset.v4_177
-    21300356: 0x72_16x16DungeonTileset.v4_178
-    21300358: 0x72_16x16DungeonTileset.v4_179
-    21300360: 0x72_16x16DungeonTileset.v4_180
-    21300362: Potion_Large_Red
-    21300364: ColWall_Cap
-    21300366: ChestSilver_Locked
-    21300368: ChestGold_Locked
-    21300370: 0x72_16x16DungeonTileset.v4_191
-    21300372: 0x72_16x16DungeonTileset.v4_192
-    21300374: 0x72_16x16DungeonTileset.v4_193
-    21300376: 0x72_16x16DungeonTileset.v4_194
-    21300378: 0x72_16x16DungeonTileset.v4_195
-    21300380: 0x72_16x16DungeonTileset.v4_196
-    21300382: 0x72_16x16DungeonTileset.v4_197
-    21300384: 0x72_16x16DungeonTileset.v4_199
-    21300386: 0x72_16x16DungeonTileset.v4_201
-    21300388: Potion_Large_Green
-    21300390: ColWall_Mid
-    21300392: ChestSilver_UnlockedEmpty
-    21300394: ChestGold_UnlockedEmpty
-    21300396: 0x72_16x16DungeonTileset.v4_207
-    21300398: 0x72_16x16DungeonTileset.v4_208
-    21300400: 0x72_16x16DungeonTileset.v4_209
-    21300402: 0x72_16x16DungeonTileset.v4_210
-    21300404: 0x72_16x16DungeonTileset.v4_211
-    21300406: 0x72_16x16DungeonTileset.v4_212
-    21300408: Potion_Small_Red
-    21300410: Potion_Small_Green
-    21300412: Potion_Small_Blue
-    21300414: Potion_Small_Yellow
-    21300416: Potion_Large_Yellow
-    21300418: Potion_Large_Blue
-    21300420: ColWall_Base
-    21300422: ChestSilver_UnlockedFull
-    21300424: ChestGold_UnlockedFull
-    21300426: 0x72_16x16DungeonTileset.v4_222
-    21300428: 0x72_16x16DungeonTileset.v4_223
-    21300430: 0x72_16x16DungeonTileset.v4_224
-    21300432: 0x72_16x16DungeonTileset.v4_225
-    21300434: 0x72_16x16DungeonTileset.v4_226
-    21300436: 0x72_16x16DungeonTileset.v4_227
-    21300438: 0x72_16x16DungeonTileset.v4_228
-    21300440: 0x72_16x16DungeonTileset.v4_229
-    21300442: 0x72_16x16DungeonTileset.v4_230
-    21300444: 0x72_16x16DungeonTileset.v4_231
-    21300446: Joe
-    21300448: 0x72_16x16DungeonTileset.v4_237
-    21300450: 0x72_16x16DungeonTileset.v4_238
-    21300452: 0x72_16x16DungeonTileset.v4_239
-    21300454: 0x72_16x16DungeonTileset.v4_240
-    21300456: 0x72_16x16DungeonTileset.v4_241
-    21300458: 0x72_16x16DungeonTileset.v4_242
-    21300460: 0x72_16x16DungeonTileset.v4_243
-    21300462: 0x72_16x16DungeonTileset.v4_244
-    21300464: Hero
-    21300466: 0x72_16x16DungeonTileset.v4_181
-    21300468: 0x72_16x16DungeonTileset.v4_182
-    21300470: 0x72_16x16DungeonTileset.v4_183
-    21300472: 0x72_16x16DungeonTileset.v4_184
-    21300474: 0x72_16x16DungeonTileset.v4_185
-    21300476: 0x72_16x16DungeonTileset.v4_186
-    21300478: 0x72_16x16DungeonTileset.v4_198
-    21300480: 0x72_16x16DungeonTileset.v4_200
-    21300482: 0x72_16x16DungeonTileset.v4_202
-    21300484: 0x72_16x16DungeonTileset.v4_232
-    21300486: 0x72_16x16DungeonTileset.v4_233
-    21300488: 0x72_16x16DungeonTileset.v4_234
-    21300490: 0x72_16x16DungeonTileset.v4_235
-    21300492: 0x72_16x16DungeonTileset.v4_246
-    21300494: Knife_Iron
-    21300496: Knife_Silver
-    21300498: Col_Cap
-    21300500: Col_Mid
-    21300502: Col_Base
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Wall_TopBrick01
+  - first:
+      213: 21300002
+    second: Wall_TopBrick02
+  - first:
+      213: 21300004
+    second: Wall_TopBrick03
+  - first:
+      213: 21300006
+    second: 0x72_16x16DungeonTileset.v4_3
+  - first:
+      213: 21300008
+    second: 0x72_16x16DungeonTileset.v4_4
+  - first:
+      213: 21300010
+    second: Stairs_Top_L
+  - first:
+      213: 21300012
+    second: Stairs_Top_R
+  - first:
+      213: 21300014
+    second: 0x72_16x16DungeonTileset.v4_7
+  - first:
+      213: 21300016
+    second: 0x72_16x16DungeonTileset.v4_8
+  - first:
+      213: 21300018
+    second: Stairs_Top_C
+  - first:
+      213: 21300020
+    second: Stairs_Mid_C
+  - first:
+      213: 21300022
+    second: Stairs_Base_C
+  - first:
+      213: 21300024
+    second: 0x72_16x16DungeonTileset.v4_12
+  - first:
+      213: 21300026
+    second: 0x72_16x16DungeonTileset.v4_13
+  - first:
+      213: 21300028
+    second: 0x72_16x16DungeonTileset.v4_14
+  - first:
+      213: 21300030
+    second: 0x72_16x16DungeonTileset.v4_15
+  - first:
+      213: 21300032
+    second: Wall_Brick01
+  - first:
+      213: 21300034
+    second: Wall_Brick02
+  - first:
+      213: 21300036
+    second: Wall_Brick03
+  - first:
+      213: 21300038
+    second: Wall_Brick_Sludge
+  - first:
+      213: 21300040
+    second: 0x72_16x16DungeonTileset.v4_20
+  - first:
+      213: 21300042
+    second: Stairs_Mid_L
+  - first:
+      213: 21300044
+    second: Stairs_Mid_R
+  - first:
+      213: 21300046
+    second: 0x72_16x16DungeonTileset.v4_23
+  - first:
+      213: 21300048
+    second: 0x72_16x16DungeonTileset.v4_24
+  - first:
+      213: 21300050
+    second: 0x72_16x16DungeonTileset.v4_25
+  - first:
+      213: 21300052
+    second: 0x72_16x16DungeonTileset.v4_26
+  - first:
+      213: 21300054
+    second: 0x72_16x16DungeonTileset.v4_27
+  - first:
+      213: 21300056
+    second: Weapon_Main
+  - first:
+      213: 21300058
+    second: 0x72_16x16DungeonTileset.v4_29
+  - first:
+      213: 21300060
+    second: 0x72_16x16DungeonTileset.v4_30
+  - first:
+      213: 21300062
+    second: 0x72_16x16DungeonTileset.v4_31
+  - first:
+      213: 21300064
+    second: 0x72_16x16DungeonTileset.v4_32
+  - first:
+      213: 21300066
+    second: 0x72_16x16DungeonTileset.v4_33
+  - first:
+      213: 21300068
+    second: 0x72_16x16DungeonTileset.v4_34
+  - first:
+      213: 21300070
+    second: 0x72_16x16DungeonTileset.v4_35
+  - first:
+      213: 21300072
+    second: 0x72_16x16DungeonTileset.v4_36
+  - first:
+      213: 21300074
+    second: Stairs_Base_L
+  - first:
+      213: 21300076
+    second: Stairs_Base_R
+  - first:
+      213: 21300078
+    second: 0x72_16x16DungeonTileset.v4_39
+  - first:
+      213: 21300080
+    second: 0x72_16x16DungeonTileset.v4_40
+  - first:
+      213: 21300082
+    second: 0x72_16x16DungeonTileset.v4_41
+  - first:
+      213: 21300084
+    second: 0x72_16x16DungeonTileset.v4_42
+  - first:
+      213: 21300086
+    second: 0x72_16x16DungeonTileset.v4_43
+  - first:
+      213: 21300088
+    second: 0x72_16x16DungeonTileset.v4_44
+  - first:
+      213: 21300090
+    second: 0x72_16x16DungeonTileset.v4_45
+  - first:
+      213: 21300092
+    second: 0x72_16x16DungeonTileset.v4_46
+  - first:
+      213: 21300094
+    second: 0x72_16x16DungeonTileset.v4_47
+  - first:
+      213: 21300096
+    second: 0x72_16x16DungeonTileset.v4_48
+  - first:
+      213: 21300098
+    second: Skull
+  - first:
+      213: 21300100
+    second: Grnd_GenDark
+  - first:
+      213: 21300102
+    second: 0x72_16x16DungeonTileset.v4_51
+  - first:
+      213: 21300104
+    second: 0x72_16x16DungeonTileset.v4_52
+  - first:
+      213: 21300106
+    second: 0x72_16x16DungeonTileset.v4_53
+  - first:
+      213: 21300108
+    second: ColWall_Cap
+  - first:
+      213: 21300110
+    second: 0x72_16x16DungeonTileset.v4_55
+  - first:
+      213: 21300112
+    second: 0x72_16x16DungeonTileset.v4_56
+  - first:
+      213: 21300114
+    second: 0x72_16x16DungeonTileset.v4_57
+  - first:
+      213: 21300116
+    second: 0x72_16x16DungeonTileset.v4_58
+  - first:
+      213: 21300118
+    second: Sword_Steel_Katana
+  - first:
+      213: 21300120
+    second: 0x72_16x16DungeonTileset.v4_60
+  - first:
+      213: 21300122
+    second: 0x72_16x16DungeonTileset.v4_61
+  - first:
+      213: 21300124
+    second: 0x72_16x16DungeonTileset.v4_62
+  - first:
+      213: 21300126
+    second: Bomb
+  - first:
+      213: 21300128
+    second: 0x72_16x16DungeonTileset.v4_64
+  - first:
+      213: 21300130
+    second: 0x72_16x16DungeonTileset.v4_65
+  - first:
+      213: 21300132
+    second: 0x72_16x16DungeonTileset.v4_66
+  - first:
+      213: 21300134
+    second: 0x72_16x16DungeonTileset.v4_67
+  - first:
+      213: 21300136
+    second: 0x72_16x16DungeonTileset.v4_68
+  - first:
+      213: 21300138
+    second: 0x72_16x16DungeonTileset.v4_69
+  - first:
+      213: 21300140
+    second: ColWall_Mid
+  - first:
+      213: 21300142
+    second: 0x72_16x16DungeonTileset.v4_71
+  - first:
+      213: 21300144
+    second: 0x72_16x16DungeonTileset.v4_72
+  - first:
+      213: 21300146
+    second: 0x72_16x16DungeonTileset.v4_73
+  - first:
+      213: 21300148
+    second: 0x72_16x16DungeonTileset.v4_74
+  - first:
+      213: 21300150
+    second: 0x72_16x16DungeonTileset.v4_75
+  - first:
+      213: 21300152
+    second: Banner_Red
+  - first:
+      213: 21300154
+    second: Banner_Green
+  - first:
+      213: 21300156
+    second: Banner_Blue
+  - first:
+      213: 21300158
+    second: Banner_Yellow
+  - first:
+      213: 21300160
+    second: 0x72_16x16DungeonTileset.v4_80
+  - first:
+      213: 21300162
+    second: 0x72_16x16DungeonTileset.v4_81
+  - first:
+      213: 21300164
+    second: 0x72_16x16DungeonTileset.v4_82
+  - first:
+      213: 21300166
+    second: 0x72_16x16DungeonTileset.v4_83
+  - first:
+      213: 21300168
+    second: 0x72_16x16DungeonTileset.v4_84
+  - first:
+      213: 21300170
+    second: 0x72_16x16DungeonTileset.v4_85
+  - first:
+      213: 21300172
+    second: ColWall_Base
+  - first:
+      213: 21300174
+    second: 0x72_16x16DungeonTileset.v4_87
+  - first:
+      213: 21300176
+    second: 0x72_16x16DungeonTileset.v4_88
+  - first:
+      213: 21300178
+    second: 0x72_16x16DungeonTileset.v4_89
+  - first:
+      213: 21300180
+    second: 0x72_16x16DungeonTileset.v4_90
+  - first:
+      213: 21300182
+    second: 0x72_16x16DungeonTileset.v4_91
+  - first:
+      213: 21300184
+    second: 0x72_16x16DungeonTileset.v4_92
+  - first:
+      213: 21300186
+    second: 0x72_16x16DungeonTileset.v4_93
+  - first:
+      213: 21300188
+    second: 0x72_16x16DungeonTileset.v4_94
+  - first:
+      213: 21300190
+    second: 0x72_16x16DungeonTileset.v4_95
+  - first:
+      213: 21300192
+    second: Grnd_Patch_NW
+  - first:
+      213: 21300194
+    second: Grnd_Patch_N00
+  - first:
+      213: 21300196
+    second: Grnd_Patch_N01
+  - first:
+      213: 21300198
+    second: Grnd_Patch_NE
+  - first:
+      213: 21300200
+    second: Blank
+  - first:
+      213: 21300202
+    second: 0x72_16x16DungeonTileset.v4_101
+  - first:
+      213: 21300204
+    second: Crate_StackTop
+  - first:
+      213: 21300206
+    second: 0x72_16x16DungeonTileset.v4_103
+  - first:
+      213: 21300208
+    second: 0x72_16x16DungeonTileset.v4_104
+  - first:
+      213: 21300210
+    second: Knife_Gold
+  - first:
+      213: 21300212
+    second: 0x72_16x16DungeonTileset.v4_106
+  - first:
+      213: 21300214
+    second: 0x72_16x16DungeonTileset.v4_107
+  - first:
+      213: 21300216
+    second: 0x72_16x16DungeonTileset.v4_108
+  - first:
+      213: 21300218
+    second: 0x72_16x16DungeonTileset.v4_109
+  - first:
+      213: 21300220
+    second: 0x72_16x16DungeonTileset.v4_110
+  - first:
+      213: 21300222
+    second: 0x72_16x16DungeonTileset.v4_111
+  - first:
+      213: 21300224
+    second: Grnd_Patch_W
+  - first:
+      213: 21300226
+    second: Grnd_Patch_C00
+  - first:
+      213: 21300228
+    second: Grnd_Patch_C01
+  - first:
+      213: 21300230
+    second: Grnd_Patch_E
+  - first:
+      213: 21300232
+    second: Grnd_GenLight
+  - first:
+      213: 21300234
+    second: Crate_Single
+  - first:
+      213: 21300236
+    second: Crate_Stack
+  - first:
+      213: 21300238
+    second: 0x72_16x16DungeonTileset.v4_119
+  - first:
+      213: 21300240
+    second: 0x72_16x16DungeonTileset.v4_120
+  - first:
+      213: 21300242
+    second: 0x72_16x16DungeonTileset.v4_121
+  - first:
+      213: 21300244
+    second: 0x72_16x16DungeonTileset.v4_122
+  - first:
+      213: 21300246
+    second: 0x72_16x16DungeonTileset.v4_123
+  - first:
+      213: 21300248
+    second: Dirt_Patch02
+  - first:
+      213: 21300250
+    second: Dirt_Small02
+  - first:
+      213: 21300252
+    second: 0x72_16x16DungeonTileset.v4_126
+  - first:
+      213: 21300254
+    second: 0x72_16x16DungeonTileset.v4_127
+  - first:
+      213: 21300256
+    second: Grnd_Patch_SW
+  - first:
+      213: 21300258
+    second: Grnd_Patch_S00
+  - first:
+      213: 21300260
+    second: Grnd_Patch_S01
+  - first:
+      213: 21300262
+    second: Grnd_Patch_SE
+  - first:
+      213: 21300264
+    second: Monster
+  - first:
+      213: 21300266
+    second: 0x72_16x16DungeonTileset.v4_133
+  - first:
+      213: 21300268
+    second: 0x72_16x16DungeonTileset.v4_134
+  - first:
+      213: 21300270
+    second: 0x72_16x16DungeonTileset.v4_135
+  - first:
+      213: 21300272
+    second: 0x72_16x16DungeonTileset.v4_136
+  - first:
+      213: 21300274
+    second: 0x72_16x16DungeonTileset.v4_137
+  - first:
+      213: 21300276
+    second: 0x72_16x16DungeonTileset.v4_138
+  - first:
+      213: 21300278
+    second: 0x72_16x16DungeonTileset.v4_139
+  - first:
+      213: 21300280
+    second: Dirt_Patch01
+  - first:
+      213: 21300282
+    second: Dirt_Small01
+  - first:
+      213: 21300284
+    second: Dirt_Large
+  - first:
+      213: 21300286
+    second: 0x72_16x16DungeonTileset.v4_143
+  - first:
+      213: 21300288
+    second: 0x72_16x16DungeonTileset.v4_144
+  - first:
+      213: 21300290
+    second: 0x72_16x16DungeonTileset.v4_145
+  - first:
+      213: 21300292
+    second: 0x72_16x16DungeonTileset.v4_146
+  - first:
+      213: 21300294
+    second: 0x72_16x16DungeonTileset.v4_147
+  - first:
+      213: 21300296
+    second: 0x72_16x16DungeonTileset.v4_148
+  - first:
+      213: 21300298
+    second: 0x72_16x16DungeonTileset.v4_149
+  - first:
+      213: 21300300
+    second: 0x72_16x16DungeonTileset.v4_150
+  - first:
+      213: 21300302
+    second: 0x72_16x16DungeonTileset.v4_151
+  - first:
+      213: 21300304
+    second: 0x72_16x16DungeonTileset.v4_152
+  - first:
+      213: 21300306
+    second: 0x72_16x16DungeonTileset.v4_153
+  - first:
+      213: 21300308
+    second: 0x72_16x16DungeonTileset.v4_154
+  - first:
+      213: 21300310
+    second: 0x72_16x16DungeonTileset.v4_155
+  - first:
+      213: 21300312
+    second: 0x72_16x16DungeonTileset.v4_156
+  - first:
+      213: 21300314
+    second: 0x72_16x16DungeonTileset.v4_157
+  - first:
+      213: 21300316
+    second: 0x72_16x16DungeonTileset.v4_158
+  - first:
+      213: 21300318
+    second: 0x72_16x16DungeonTileset.v4_159
+  - first:
+      213: 21300320
+    second: 0x72_16x16DungeonTileset.v4_160
+  - first:
+      213: 21300322
+    second: 0x72_16x16DungeonTileset.v4_161
+  - first:
+      213: 21300324
+    second: 0x72_16x16DungeonTileset.v4_162
+  - first:
+      213: 21300326
+    second: 0x72_16x16DungeonTileset.v4_163
+  - first:
+      213: 21300328
+    second: 0x72_16x16DungeonTileset.v4_164
+  - first:
+      213: 21300330
+    second: 0x72_16x16DungeonTileset.v4_165
+  - first:
+      213: 21300332
+    second: Flame_Out
+  - first:
+      213: 21300334
+    second: Flame_00
+  - first:
+      213: 21300336
+    second: Flame_01
+  - first:
+      213: 21300338
+    second: Flame_02
+  - first:
+      213: 21300340
+    second: Flame_03
+  - first:
+      213: 21300342
+    second: Flame_04
+  - first:
+      213: 21300344
+    second: Flame_05
+  - first:
+      213: 21300346
+    second: Flame_06
+  - first:
+      213: 21300348
+    second: Flame_07
+  - first:
+      213: 21300350
+    second: 0x72_16x16DungeonTileset.v4_175
+  - first:
+      213: 21300352
+    second: 0x72_16x16DungeonTileset.v4_176
+  - first:
+      213: 21300354
+    second: 0x72_16x16DungeonTileset.v4_177
+  - first:
+      213: 21300356
+    second: 0x72_16x16DungeonTileset.v4_178
+  - first:
+      213: 21300358
+    second: 0x72_16x16DungeonTileset.v4_179
+  - first:
+      213: 21300360
+    second: 0x72_16x16DungeonTileset.v4_180
+  - first:
+      213: 21300362
+    second: Potion_Large_Red
+  - first:
+      213: 21300364
+    second: ColWall_Cap
+  - first:
+      213: 21300366
+    second: ChestSilver_Locked
+  - first:
+      213: 21300368
+    second: ChestGold_Locked
+  - first:
+      213: 21300370
+    second: 0x72_16x16DungeonTileset.v4_191
+  - first:
+      213: 21300372
+    second: 0x72_16x16DungeonTileset.v4_192
+  - first:
+      213: 21300374
+    second: 0x72_16x16DungeonTileset.v4_193
+  - first:
+      213: 21300376
+    second: 0x72_16x16DungeonTileset.v4_194
+  - first:
+      213: 21300378
+    second: 0x72_16x16DungeonTileset.v4_195
+  - first:
+      213: 21300380
+    second: 0x72_16x16DungeonTileset.v4_196
+  - first:
+      213: 21300382
+    second: 0x72_16x16DungeonTileset.v4_197
+  - first:
+      213: 21300384
+    second: 0x72_16x16DungeonTileset.v4_199
+  - first:
+      213: 21300386
+    second: 0x72_16x16DungeonTileset.v4_201
+  - first:
+      213: 21300388
+    second: Potion_Large_Green
+  - first:
+      213: 21300390
+    second: ColWall_Mid
+  - first:
+      213: 21300392
+    second: ChestSilver_UnlockedEmpty
+  - first:
+      213: 21300394
+    second: ChestGold_UnlockedEmpty
+  - first:
+      213: 21300396
+    second: 0x72_16x16DungeonTileset.v4_207
+  - first:
+      213: 21300398
+    second: 0x72_16x16DungeonTileset.v4_208
+  - first:
+      213: 21300400
+    second: 0x72_16x16DungeonTileset.v4_209
+  - first:
+      213: 21300402
+    second: 0x72_16x16DungeonTileset.v4_210
+  - first:
+      213: 21300404
+    second: 0x72_16x16DungeonTileset.v4_211
+  - first:
+      213: 21300406
+    second: 0x72_16x16DungeonTileset.v4_212
+  - first:
+      213: 21300408
+    second: Potion_Small_Red
+  - first:
+      213: 21300410
+    second: Potion_Small_Green
+  - first:
+      213: 21300412
+    second: Potion_Small_Blue
+  - first:
+      213: 21300414
+    second: Potion_Small_Yellow
+  - first:
+      213: 21300416
+    second: Potion_Large_Yellow
+  - first:
+      213: 21300418
+    second: Potion_Large_Blue
+  - first:
+      213: 21300420
+    second: ColWall_Base
+  - first:
+      213: 21300422
+    second: ChestSilver_UnlockedFull
+  - first:
+      213: 21300424
+    second: ChestGold_UnlockedFull
+  - first:
+      213: 21300426
+    second: 0x72_16x16DungeonTileset.v4_222
+  - first:
+      213: 21300428
+    second: 0x72_16x16DungeonTileset.v4_223
+  - first:
+      213: 21300430
+    second: 0x72_16x16DungeonTileset.v4_224
+  - first:
+      213: 21300432
+    second: 0x72_16x16DungeonTileset.v4_225
+  - first:
+      213: 21300434
+    second: 0x72_16x16DungeonTileset.v4_226
+  - first:
+      213: 21300436
+    second: 0x72_16x16DungeonTileset.v4_227
+  - first:
+      213: 21300438
+    second: 0x72_16x16DungeonTileset.v4_228
+  - first:
+      213: 21300440
+    second: 0x72_16x16DungeonTileset.v4_229
+  - first:
+      213: 21300442
+    second: 0x72_16x16DungeonTileset.v4_230
+  - first:
+      213: 21300444
+    second: 0x72_16x16DungeonTileset.v4_231
+  - first:
+      213: 21300446
+    second: Joe
+  - first:
+      213: 21300448
+    second: 0x72_16x16DungeonTileset.v4_237
+  - first:
+      213: 21300450
+    second: 0x72_16x16DungeonTileset.v4_238
+  - first:
+      213: 21300452
+    second: 0x72_16x16DungeonTileset.v4_239
+  - first:
+      213: 21300454
+    second: 0x72_16x16DungeonTileset.v4_240
+  - first:
+      213: 21300456
+    second: 0x72_16x16DungeonTileset.v4_241
+  - first:
+      213: 21300458
+    second: 0x72_16x16DungeonTileset.v4_242
+  - first:
+      213: 21300460
+    second: 0x72_16x16DungeonTileset.v4_243
+  - first:
+      213: 21300462
+    second: 0x72_16x16DungeonTileset.v4_244
+  - first:
+      213: 21300464
+    second: Hero
+  - first:
+      213: 21300466
+    second: 0x72_16x16DungeonTileset.v4_181
+  - first:
+      213: 21300468
+    second: 0x72_16x16DungeonTileset.v4_182
+  - first:
+      213: 21300470
+    second: 0x72_16x16DungeonTileset.v4_183
+  - first:
+      213: 21300472
+    second: 0x72_16x16DungeonTileset.v4_184
+  - first:
+      213: 21300474
+    second: 0x72_16x16DungeonTileset.v4_185
+  - first:
+      213: 21300476
+    second: 0x72_16x16DungeonTileset.v4_186
+  - first:
+      213: 21300478
+    second: 0x72_16x16DungeonTileset.v4_198
+  - first:
+      213: 21300480
+    second: 0x72_16x16DungeonTileset.v4_200
+  - first:
+      213: 21300482
+    second: 0x72_16x16DungeonTileset.v4_202
+  - first:
+      213: 21300484
+    second: 0x72_16x16DungeonTileset.v4_232
+  - first:
+      213: 21300486
+    second: 0x72_16x16DungeonTileset.v4_233
+  - first:
+      213: 21300488
+    second: 0x72_16x16DungeonTileset.v4_234
+  - first:
+      213: 21300490
+    second: 0x72_16x16DungeonTileset.v4_235
+  - first:
+      213: 21300492
+    second: 0x72_16x16DungeonTileset.v4_246
+  - first:
+      213: 21300494
+    second: Knife_Iron
+  - first:
+      213: 21300496
+    second: Knife_Silver
+  - first:
+      213: 21300498
+    second: Col_Cap
+  - first:
+      213: 21300500
+    second: Col_Mid
+  - first:
+      213: 21300502
+    second: Col_Base
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -275,6 +777,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -285,7 +789,7 @@ TextureImporter:
     serializedVersion: 2
     filterMode: 0
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -297,18 +801,21 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
@@ -317,7 +824,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
@@ -326,7 +836,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Android
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
@@ -335,7 +848,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: WebGL
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
@@ -344,6 +860,8 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -365,6 +883,13 @@ TextureImporter:
         - {x: -8, y: -4}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Wall_TopBrick02
       rect:
@@ -383,6 +908,13 @@ TextureImporter:
         - {x: -8, y: -4}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Wall_TopBrick03
       rect:
@@ -401,6 +933,13 @@ TextureImporter:
         - {x: -8, y: -4}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_3
       rect:
@@ -419,6 +958,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_4
       rect:
@@ -437,6 +983,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Stairs_Top_L
       rect:
@@ -455,6 +1008,13 @@ TextureImporter:
         - {x: 4, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Stairs_Top_R
       rect:
@@ -473,6 +1033,13 @@ TextureImporter:
         - {x: 4, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_7
       rect:
@@ -491,6 +1058,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_8
       rect:
@@ -511,6 +1085,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Wall_Brick01
       rect:
@@ -529,6 +1110,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Wall_Brick02
       rect:
@@ -547,6 +1135,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Wall_Brick03
       rect:
@@ -565,6 +1160,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Wall_Brick_Sludge
       rect:
@@ -583,6 +1185,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_20
       rect:
@@ -601,6 +1210,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Stairs_Mid_L
       rect:
@@ -619,6 +1235,13 @@ TextureImporter:
         - {x: 4, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Stairs_Mid_R
       rect:
@@ -637,6 +1260,13 @@ TextureImporter:
         - {x: 4, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_23
       rect:
@@ -657,6 +1287,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_24
       rect:
@@ -676,6 +1313,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_25
       rect:
@@ -696,6 +1340,13 @@ TextureImporter:
         - {x: 4, y: 11}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_26
       rect:
@@ -715,6 +1366,13 @@ TextureImporter:
         - {x: 5, y: 11}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_27
       rect:
@@ -734,6 +1392,13 @@ TextureImporter:
         - {x: 5, y: 11}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Weapon_Main
       rect:
@@ -755,6 +1420,13 @@ TextureImporter:
         - {x: 3, y: 11}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_29
       rect:
@@ -777,6 +1449,13 @@ TextureImporter:
         - {x: 2, y: 12}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_30
       rect:
@@ -797,6 +1476,13 @@ TextureImporter:
         - {x: 2, y: 14}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_32
       rect:
@@ -815,6 +1501,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_33
       rect:
@@ -833,6 +1526,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_34
       rect:
@@ -851,6 +1551,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_35
       rect:
@@ -869,6 +1576,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_36
       rect:
@@ -887,6 +1601,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Stairs_Base_L
       rect:
@@ -905,6 +1626,13 @@ TextureImporter:
         - {x: 4, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Stairs_Base_R
       rect:
@@ -923,6 +1651,13 @@ TextureImporter:
         - {x: 4, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_47
       rect:
@@ -942,6 +1677,13 @@ TextureImporter:
         - {x: 5, y: 19}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_48
       rect:
@@ -962,6 +1704,13 @@ TextureImporter:
         - {x: 5, y: 1}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Skull
       rect:
@@ -980,6 +1729,13 @@ TextureImporter:
         - {x: -3, y: 1}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_GenDark
       rect:
@@ -998,6 +1754,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_51
       rect:
@@ -1018,6 +1781,13 @@ TextureImporter:
         - {x: 6, y: -1}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_52
       rect:
@@ -1036,6 +1806,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_53
       rect:
@@ -1054,6 +1831,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ColWall_Cap
       rect:
@@ -1074,6 +1858,13 @@ TextureImporter:
         - {x: 5, y: 5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_55
       rect:
@@ -1094,6 +1885,13 @@ TextureImporter:
         - {x: 5, y: 7}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_56
       rect:
@@ -1114,6 +1912,13 @@ TextureImporter:
         - {x: 4, y: 11}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_57
       rect:
@@ -1135,6 +1940,13 @@ TextureImporter:
         - {x: 3, y: 11}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_58
       rect:
@@ -1153,6 +1965,13 @@ TextureImporter:
         - {x: 5, y: 15}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sword_Steel_Katana
       rect:
@@ -1174,6 +1993,13 @@ TextureImporter:
         - {x: 1, y: 14}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_60
       rect:
@@ -1195,6 +2021,13 @@ TextureImporter:
         - {x: 5, y: 7}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_61
       rect:
@@ -1216,6 +2049,13 @@ TextureImporter:
         - {x: 5, y: 7}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_62
       rect:
@@ -1237,6 +2077,13 @@ TextureImporter:
         - {x: 1, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Bomb
       rect:
@@ -1260,6 +2107,13 @@ TextureImporter:
         - {x: 4, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_64
       rect:
@@ -1278,6 +2132,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_65
       rect:
@@ -1296,6 +2157,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_66
       rect:
@@ -1314,6 +2182,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_67
       rect:
@@ -1332,6 +2207,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_68
       rect:
@@ -1350,6 +2232,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_69
       rect:
@@ -1368,6 +2257,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ColWall_Mid
       rect:
@@ -1386,6 +2282,13 @@ TextureImporter:
         - {x: 8, y: 7}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_74
       rect:
@@ -1405,6 +2308,13 @@ TextureImporter:
         - {x: -8, y: -4}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_75
       rect:
@@ -1424,6 +2334,13 @@ TextureImporter:
         - {x: -3, y: -1}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Banner_Red
       rect:
@@ -1442,6 +2359,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Banner_Green
       rect:
@@ -1460,6 +2384,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Banner_Blue
       rect:
@@ -1478,6 +2409,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Banner_Yellow
       rect:
@@ -1496,6 +2434,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_80
       rect:
@@ -1514,6 +2459,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_81
       rect:
@@ -1532,6 +2484,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_82
       rect:
@@ -1550,6 +2509,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_83
       rect:
@@ -1568,6 +2534,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_84
       rect:
@@ -1586,6 +2559,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_85
       rect:
@@ -1604,6 +2584,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ColWall_Base
       rect:
@@ -1622,6 +2609,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_87
       rect:
@@ -1643,6 +2637,13 @@ TextureImporter:
         - {x: 3, y: 11}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_89
       rect:
@@ -1664,6 +2665,13 @@ TextureImporter:
         - {x: 3, y: 11}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_90
       rect:
@@ -1682,6 +2690,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_91
       rect:
@@ -1700,6 +2715,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_92
       rect:
@@ -1718,6 +2740,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_93
       rect:
@@ -1736,6 +2765,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_94
       rect:
@@ -1754,6 +2790,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_95
       rect:
@@ -1772,6 +2815,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_Patch_NW
       rect:
@@ -1790,6 +2840,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_Patch_N00
       rect:
@@ -1808,6 +2865,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_Patch_N01
       rect:
@@ -1826,6 +2890,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_Patch_NE
       rect:
@@ -1844,6 +2915,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Blank
       rect:
@@ -1862,6 +2940,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Crate_StackTop
       rect:
@@ -1880,6 +2965,13 @@ TextureImporter:
         - {x: 8, y: 10.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_104
       rect:
@@ -1900,6 +2992,13 @@ TextureImporter:
         - {x: 0, y: 5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Knife_Gold
       rect:
@@ -1919,6 +3018,13 @@ TextureImporter:
         - {x: 1, y: 7}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_106
       rect:
@@ -1937,6 +3043,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_107
       rect:
@@ -1955,6 +3068,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_108
       rect:
@@ -1973,6 +3093,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_109
       rect:
@@ -1991,6 +3118,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_110
       rect:
@@ -2009,6 +3143,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_111
       rect:
@@ -2027,6 +3168,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_Patch_W
       rect:
@@ -2045,6 +3193,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_Patch_C00
       rect:
@@ -2063,6 +3218,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_Patch_C01
       rect:
@@ -2081,6 +3243,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_Patch_E
       rect:
@@ -2099,6 +3268,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_GenLight
       rect:
@@ -2117,6 +3293,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Crate_Single
       rect:
@@ -2135,6 +3318,13 @@ TextureImporter:
         - {x: 8, y: 10.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Crate_Stack
       rect:
@@ -2153,6 +3343,13 @@ TextureImporter:
         - {x: 8, y: 5.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Dirt_Patch02
       rect:
@@ -2175,6 +3372,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Dirt_Small02
       rect:
@@ -2199,6 +3403,13 @@ TextureImporter:
         - {x: 0, y: -6}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_Patch_SW
       rect:
@@ -2217,6 +3428,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_Patch_S00
       rect:
@@ -2235,6 +3453,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_Patch_S01
       rect:
@@ -2253,6 +3478,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Grnd_Patch_SE
       rect:
@@ -2271,6 +3503,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Monster
       rect:
@@ -2291,6 +3530,13 @@ TextureImporter:
         - {x: 6, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_133
       rect:
@@ -2310,6 +3556,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Dirt_Patch01
       rect:
@@ -2330,6 +3583,13 @@ TextureImporter:
         - {x: 8, y: 0}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Dirt_Small01
       rect:
@@ -2356,6 +3616,13 @@ TextureImporter:
         - {x: -4, y: -7}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Dirt_Large
       rect:
@@ -2387,6 +3654,13 @@ TextureImporter:
         - {x: 7, y: -8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_144
       rect:
@@ -2406,6 +3680,13 @@ TextureImporter:
         - {x: 6, y: 4}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_145
       rect:
@@ -2426,6 +3707,13 @@ TextureImporter:
         - {x: 7, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_146
       rect:
@@ -2444,6 +3732,13 @@ TextureImporter:
         - {x: 6, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_147
       rect:
@@ -2463,6 +3758,13 @@ TextureImporter:
         - {x: 4, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_148
       rect:
@@ -2481,6 +3783,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_149
       rect:
@@ -2499,6 +3808,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_150
       rect:
@@ -2518,6 +3834,13 @@ TextureImporter:
         - {x: 8, y: 10.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_160
       rect:
@@ -2538,6 +3861,13 @@ TextureImporter:
         - {x: 6, y: 4}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_161
       rect:
@@ -2559,6 +3889,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_162
       rect:
@@ -2579,6 +3916,13 @@ TextureImporter:
         - {x: -8, y: 2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_163
       rect:
@@ -2599,6 +3943,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_164
       rect:
@@ -2618,6 +3969,13 @@ TextureImporter:
         - {x: 7, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_165
       rect:
@@ -2639,6 +3997,13 @@ TextureImporter:
         - {x: 6, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Flame_Out
       rect:
@@ -2661,6 +4026,13 @@ TextureImporter:
         - {x: 4, y: 6}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Flame_00
       rect:
@@ -2681,6 +4053,13 @@ TextureImporter:
         - {x: 0, y: 12}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Flame_01
       rect:
@@ -2702,6 +4081,13 @@ TextureImporter:
         - {x: 2, y: 12}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Flame_02
       rect:
@@ -2722,6 +4108,13 @@ TextureImporter:
         - {x: 6, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Flame_03
       rect:
@@ -2742,6 +4135,13 @@ TextureImporter:
         - {x: 3, y: 12}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Flame_04
       rect:
@@ -2763,6 +4163,13 @@ TextureImporter:
         - {x: 2, y: 12}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Flame_05
       rect:
@@ -2786,6 +4193,13 @@ TextureImporter:
         - {x: 6, y: 5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Flame_06
       rect:
@@ -2806,6 +4220,13 @@ TextureImporter:
         - {x: -6, y: 5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Flame_07
       rect:
@@ -2826,6 +4247,13 @@ TextureImporter:
         - {x: 2, y: 10}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_175
       rect:
@@ -2847,6 +4275,13 @@ TextureImporter:
         - {x: 7, y: 6}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_176
       rect:
@@ -2867,6 +4302,13 @@ TextureImporter:
         - {x: 6, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_177
       rect:
@@ -2887,6 +4329,13 @@ TextureImporter:
         - {x: 7, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_178
       rect:
@@ -2905,6 +4354,13 @@ TextureImporter:
         - {x: 7, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_179
       rect:
@@ -2925,6 +4381,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_180
       rect:
@@ -2943,6 +4406,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Potion_Large_Red
       rect:
@@ -2961,6 +4431,13 @@ TextureImporter:
         - {x: 5, y: 6}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Col_Cap
       rect:
@@ -2981,6 +4458,13 @@ TextureImporter:
         - {x: 5, y: 3}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 21505410000000000800000000000000
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ChestSilver_Locked
       rect:
@@ -2999,6 +4483,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ChestGold_Locked
       rect:
@@ -3017,6 +4508,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_191
       rect:
@@ -3036,6 +4534,13 @@ TextureImporter:
         - {x: 7, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_192
       rect:
@@ -3056,6 +4561,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_193
       rect:
@@ -3076,6 +4588,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_194
       rect:
@@ -3096,6 +4615,13 @@ TextureImporter:
         - {x: 7, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_195
       rect:
@@ -3114,6 +4640,13 @@ TextureImporter:
         - {x: 7, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_196
       rect:
@@ -3134,6 +4667,13 @@ TextureImporter:
         - {x: 6, y: 7}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_199
       rect:
@@ -3156,6 +4696,13 @@ TextureImporter:
         - {x: 6, y: 14}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_201
       rect:
@@ -3178,6 +4725,13 @@ TextureImporter:
         - {x: 12, y: 15}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Potion_Large_Green
       rect:
@@ -3196,6 +4750,13 @@ TextureImporter:
         - {x: 5, y: 6}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Col_Mid
       rect:
@@ -3214,6 +4775,13 @@ TextureImporter:
         - {x: 6, y: 7}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 41505410000000000800000000000000
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ChestSilver_UnlockedEmpty
       rect:
@@ -3232,6 +4800,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ChestGold_UnlockedEmpty
       rect:
@@ -3250,6 +4825,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_207
       rect:
@@ -3270,6 +4852,13 @@ TextureImporter:
         - {x: -5, y: 4}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_208
       rect:
@@ -3290,6 +4879,13 @@ TextureImporter:
         - {x: -8, y: 3}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_209
       rect:
@@ -3312,6 +4908,13 @@ TextureImporter:
         - {x: 4, y: 5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_210
       rect:
@@ -3334,6 +4937,13 @@ TextureImporter:
         - {x: 3, y: 4}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_211
       rect:
@@ -3353,6 +4963,13 @@ TextureImporter:
         - {x: 7, y: 4}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_212
       rect:
@@ -3373,6 +4990,13 @@ TextureImporter:
         - {x: 4, y: 3}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Potion_Small_Red
       rect:
@@ -3391,6 +5015,13 @@ TextureImporter:
         - {x: 4, y: 6}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Potion_Small_Green
       rect:
@@ -3409,6 +5040,13 @@ TextureImporter:
         - {x: 4, y: 6}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Potion_Small_Blue
       rect:
@@ -3427,6 +5065,13 @@ TextureImporter:
         - {x: 4, y: 6}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Potion_Small_Yellow
       rect:
@@ -3445,6 +5090,13 @@ TextureImporter:
         - {x: 4, y: 6}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Potion_Large_Yellow
       rect:
@@ -3463,6 +5115,13 @@ TextureImporter:
         - {x: 5, y: 6}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0c405410000000000800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Potion_Large_Blue
       rect:
@@ -3481,6 +5140,13 @@ TextureImporter:
         - {x: 5, y: 6}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Col_Base
       rect:
@@ -3499,6 +5165,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 61505410000000000800000000000000
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ChestSilver_UnlockedFull
       rect:
@@ -3517,6 +5190,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6c405410000000000800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ChestGold_UnlockedFull
       rect:
@@ -3535,6 +5215,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8c405410000000000800000000000000
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_222
       rect:
@@ -3553,6 +5240,13 @@ TextureImporter:
         - {x: -6, y: -8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ac405410000000000800000000000000
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_223
       rect:
@@ -3573,6 +5267,13 @@ TextureImporter:
         - {x: -6, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cc405410000000000800000000000000
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_224
       rect:
@@ -3592,6 +5293,13 @@ TextureImporter:
         - {x: 5, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ec405410000000000800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_225
       rect:
@@ -3612,6 +5320,13 @@ TextureImporter:
         - {x: 5, y: 7}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0d405410000000000800000000000000
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_226
       rect:
@@ -3633,6 +5348,13 @@ TextureImporter:
         - {x: 7, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2d405410000000000800000000000000
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_227
       rect:
@@ -3653,6 +5375,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4d405410000000000800000000000000
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_228
       rect:
@@ -3671,6 +5400,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6d405410000000000800000000000000
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_229
       rect:
@@ -3689,6 +5425,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8d405410000000000800000000000000
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_230
       rect:
@@ -3707,6 +5450,13 @@ TextureImporter:
         - {x: -7, y: -8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ad405410000000000800000000000000
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_231
       rect:
@@ -3725,6 +5475,13 @@ TextureImporter:
         - {x: -7, y: -8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cd405410000000000800000000000000
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Joe
       rect:
@@ -3746,6 +5503,13 @@ TextureImporter:
         - {x: 6, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ed405410000000000800000000000000
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_237
       rect:
@@ -3765,6 +5529,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0e405410000000000800000000000000
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_238
       rect:
@@ -3783,6 +5554,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2e405410000000000800000000000000
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_239
       rect:
@@ -3801,6 +5579,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4e405410000000000800000000000000
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_240
       rect:
@@ -3821,6 +5606,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6e405410000000000800000000000000
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_241
       rect:
@@ -3841,6 +5633,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8e405410000000000800000000000000
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_242
       rect:
@@ -3861,6 +5660,13 @@ TextureImporter:
         - {x: 5, y: 10}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ae405410000000000800000000000000
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_243
       rect:
@@ -3881,6 +5687,13 @@ TextureImporter:
         - {x: 5, y: 10}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ce405410000000000800000000000000
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_244
       rect:
@@ -3901,6 +5714,13 @@ TextureImporter:
         - {x: 5, y: 10}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ee405410000000000800000000000000
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Hero
       rect:
@@ -3921,6 +5741,13 @@ TextureImporter:
         - {x: 5, y: 10}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0f405410000000000800000000000000
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_181
       rect:
@@ -3941,6 +5768,13 @@ TextureImporter:
         - {x: 5, y: 12}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2f405410000000000800000000000000
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_182
       rect:
@@ -3959,6 +5793,13 @@ TextureImporter:
         - {x: 2, y: 2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4f405410000000000800000000000000
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_183
       rect:
@@ -3977,6 +5818,13 @@ TextureImporter:
         - {x: 2, y: 2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6f405410000000000800000000000000
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_134
       rect:
@@ -3995,6 +5843,13 @@ TextureImporter:
         - {x: 2, y: 2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_135
       rect:
@@ -4013,6 +5868,13 @@ TextureImporter:
         - {x: 2, y: 2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_153
       rect:
@@ -4031,6 +5893,13 @@ TextureImporter:
         - {x: 2, y: 2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_154
       rect:
@@ -4049,6 +5918,13 @@ TextureImporter:
         - {x: 2, y: 2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_155
       rect:
@@ -4067,6 +5943,13 @@ TextureImporter:
         - {x: 1.5, y: 1.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_156
       rect:
@@ -4085,6 +5968,13 @@ TextureImporter:
         - {x: 1.5, y: 1.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_157
       rect:
@@ -4103,6 +5993,13 @@ TextureImporter:
         - {x: 1.5, y: 1.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_158
       rect:
@@ -4121,6 +6018,13 @@ TextureImporter:
         - {x: 1.5, y: 1.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_159
       rect:
@@ -4139,6 +6043,13 @@ TextureImporter:
         - {x: 1.5, y: 1.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_184
       rect:
@@ -4157,6 +6068,13 @@ TextureImporter:
         - {x: 1.5, y: 1.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8f405410000000000800000000000000
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_185
       rect:
@@ -4175,6 +6093,13 @@ TextureImporter:
         - {x: 1.5, y: 1.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: af405410000000000800000000000000
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_186
       rect:
@@ -4193,6 +6118,13 @@ TextureImporter:
         - {x: 1.5, y: 1.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cf405410000000000800000000000000
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_197
       rect:
@@ -4211,6 +6143,13 @@ TextureImporter:
         - {x: 1.5, y: 1.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_198
       rect:
@@ -4229,6 +6168,13 @@ TextureImporter:
         - {x: 2.5, y: 2.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ef405410000000000800000000000000
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_200
       rect:
@@ -4247,6 +6193,13 @@ TextureImporter:
         - {x: 2.5, y: 2.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 00505410000000000800000000000000
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_202
       rect:
@@ -4265,6 +6218,13 @@ TextureImporter:
         - {x: 2, y: 2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 20505410000000000800000000000000
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_232
       rect:
@@ -4283,6 +6243,13 @@ TextureImporter:
         - {x: 2, y: 2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 40505410000000000800000000000000
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_233
       rect:
@@ -4301,6 +6268,13 @@ TextureImporter:
         - {x: 2, y: 2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 60505410000000000800000000000000
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_234
       rect:
@@ -4319,6 +6293,13 @@ TextureImporter:
         - {x: 2, y: 2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 80505410000000000800000000000000
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_235
       rect:
@@ -4337,6 +6318,13 @@ TextureImporter:
         - {x: 2, y: 2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a0505410000000000800000000000000
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_246
       rect:
@@ -4355,6 +6343,13 @@ TextureImporter:
         - {x: 2, y: 2}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c0505410000000000800000000000000
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_103
       rect:
@@ -4373,6 +6368,13 @@ TextureImporter:
         - {x: 4, y: 9}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_119
       rect:
@@ -4392,6 +6394,13 @@ TextureImporter:
         - {x: 3, y: 9}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Knife_Iron
       rect:
@@ -4411,6 +6420,13 @@ TextureImporter:
         - {x: 1, y: 7}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e0505410000000000800000000000000
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Knife_Silver
       rect:
@@ -4430,6 +6446,13 @@ TextureImporter:
         - {x: 1, y: 7}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 01505410000000000800000000000000
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 0x72_16x16DungeonTileset.v4_71
       rect:
@@ -4451,6 +6474,13 @@ TextureImporter:
         - {x: 3, y: 11}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Stairs_Top_C
       rect:
@@ -4469,6 +6499,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Stairs_Mid_C
       rect:
@@ -4487,6 +6524,13 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Stairs_Base_C
       rect:
@@ -4505,9 +6549,26 @@ TextureImporter:
         - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
