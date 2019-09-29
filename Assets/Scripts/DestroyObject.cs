@@ -8,6 +8,6 @@ public class DestroyObject : MonoBehaviour
 
 	void Update () 
 	{
-        DestroyObject(gameObject, waitForDestroy);
+        Destroy(gameObject, waitForDestroy);
     }
 }
